@@ -1,4 +1,4 @@
-<img src="https://github.com/OliverRass/OliverRass/blob/main/200.gif">
+<img src="https://github.com/OliverRass/OliverRass/blob/main/giphy.gif" alt="Analytics.gif" style="max-width: 100%;">
 <h1 align="center">Hi 👋, I'm Oliver</h1>
 <h3 align="center">I am a data analyst from Estonia who is studying electrical engineering. I am expanding on my data analyst skills to become a data scientist and on the side I like to learn web development.</h3>
 
