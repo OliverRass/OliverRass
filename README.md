@@ -1,4 +1,4 @@
-<img src="https://github.com/OliverRass/OliverRass/blob/main/giphy.gif" alt="Analytics.gif" style="max-width: 100%;">
+<img src="https://github.com/OliverRass/OliverRass/blob/main/giphy.gif" alt="Analytics.gif" style="max-width: 75%;">
 <h1 align="center">Hi 👋, I'm Oliver</h1>
 <h3 align="center">I am a data analyst from Estonia who is studying electrical engineering. I am expanding on my data analyst skills to become a data scientist and on the side I like to learn web development.</h3>
 
@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/oliver-rass-385022234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oliver-rass-385022234/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/oliver-rass-385022234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oliver-rass-385022234/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
